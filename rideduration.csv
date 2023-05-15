@@ -1,0 +1,51 @@
+﻿PUBorough,DOBorough,Company,Mean,SD
+Brooklyn,Brooklyn,Uber,849,529
+Brooklyn,Brooklyn,Via,976,538
+Brooklyn,Bronx,Uber,2627,928
+Brooklyn,Bronx,Via,2640,938
+Brooklyn,Queens,Uber,1610,836
+Brooklyn,Queens,Via,1650,851
+Brooklyn,Manhattan,Uber,1702,787
+Brooklyn,Manhattan,Via,1684,765
+Brooklyn,Staten Island,Uber,1641,752
+Brooklyn,Staten Island,Via,2209,904
+Bronx,Brooklyn,Uber,2744,909
+Bronx,Brooklyn,Via,2598,853
+Bronx,Bronx,Uber,758,431
+Bronx,Bronx,Via,831,441
+Bronx,Queens,Uber,1797,743
+Bronx,Queens,Via,1956,1541
+Bronx,Manhattan,Uber,1338,744
+Bronx,Manhattan,Via,1475,748
+Bronx,Staten Island,Uber,3842,1133
+Bronx,Staten Island,Via,4129,1416
+Queens,Brooklyn,Uber,1656,897
+Queens,Brooklyn,Via,1809,845
+Queens,Bronx,Uber,1838,791
+Queens,Bronx,Via,1957,795
+Queens,Queens,Uber,805,517
+Queens,Queens,Via,993,605
+Queens,Manhattan,Uber,2180,1013
+Queens,Manhattan,Via,2067,945
+Queens,Staten Island,Uber,3148,1013
+Queens,Staten Island,Via,3117,780
+Manhattan,Brooklyn,Uber,1671,732
+Manhattan,Brooklyn,Via,1532,610
+Manhattan,Bronx,Uber,1272,677
+Manhattan,Bronx,Via,1428,663
+Manhattan,Queens,Uber,2079,1028
+Manhattan,Queens,Via,1744,1077
+Manhattan,Manhattan,Uber,928,528
+Manhattan,Manhattan,Via,945,535
+Manhattan,Staten Island,Uber,2644,830
+Manhattan,Staten Island,Via,2512,857
+Staten Island,Brooklyn,Uber,1721,811
+Staten Island,Brooklyn,Via,2163,731
+Staten Island,Bronx,Uber,3889,1163
+Staten Island,Bronx,Via,3622,478
+Staten Island,Queens,Uber,3257,999
+Staten Island,Queens,Via,3124,789
+Staten Island,Manhattan,Uber,2876,955
+Staten Island,Manhattan,Via,2458,691
+Staten Island,Staten Island,Uber,725,431
+Staten Island,Staten Island,Via,928,566

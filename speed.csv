@@ -1,0 +1,51 @@
+﻿PUBorough,DOBorough,Company,Mean,SD
+Brooklyn,Brooklyn,Uber,12,4
+Brooklyn,Brooklyn,Via,12,4
+Brooklyn,Bronx,Uber,26,7
+Brooklyn,Bronx,Via,27,8
+Brooklyn,Queens,Uber,19,8
+Brooklyn,Queens,Via,19,8
+Brooklyn,Manhattan,Uber,15,5
+Brooklyn,Manhattan,Via,16,7
+Brooklyn,Staten Island,Uber,25,6
+Brooklyn,Staten Island,Via,25,6
+Bronx,Brooklyn,Uber,25,7
+Bronx,Brooklyn,Via,27,7
+Bronx,Bronx,Uber,13,5
+Bronx,Bronx,Via,14,6
+Bronx,Queens,Uber,26,7
+Bronx,Queens,Via,26,8
+Bronx,Manhattan,Uber,15,7
+Bronx,Manhattan,Via,19,8
+Bronx,Staten Island,Uber,31,8
+Bronx,Staten Island,Via,31,7
+Queens,Brooklyn,Uber,18,7
+Queens,Brooklyn,Via,19,8
+Queens,Bronx,Uber,26,7
+Queens,Bronx,Via,27,8
+Queens,Queens,Uber,15,6
+Queens,Queens,Via,16,8
+Queens,Manhattan,Uber,19,7
+Queens,Manhattan,Via,21,9
+Queens,Staten Island,Uber,31,8
+Queens,Staten Island,Via,34,7
+Manhattan,Brooklyn,Uber,15,5
+Manhattan,Brooklyn,Via,15,6
+Manhattan,Bronx,Uber,17,7
+Manhattan,Bronx,Via,21,9
+Manhattan,Queens,Uber,20,8
+Manhattan,Queens,Via,20,8
+Manhattan,Manhattan,Uber,10,5
+Manhattan,Manhattan,Via,12,6
+Manhattan,Staten Island,Uber,28,6
+Manhattan,Staten Island,Via,30,7
+Staten Island,Brooklyn,Uber,24,6
+Staten Island,Brooklyn,Via,24,7
+Staten Island,Bronx,Uber,32,7
+Staten Island,Bronx,Via,33,1
+Staten Island,Queens,Uber,31,8
+Staten Island,Queens,Via,29,7
+Staten Island,Manhattan,Uber,26,6
+Staten Island,Manhattan,Via,25,6
+Staten Island,Staten Island,Uber,17,5
+Staten Island,Staten Island,Via,17,8
