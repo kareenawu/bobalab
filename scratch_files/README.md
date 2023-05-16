@@ -14,7 +14,7 @@
 - This is an iteration of the driving game / simulation for Gig-Virtual built in Scratch
   - Current objective is to now rebuild the game using Javascript
 - Game is typing-based, and presents a series of pre-generated prompts for the 'driver' when they are on a trip
-  - Two different companys, Company Red (A) and Company Blue (B)
+  - Two different companys, Company Blue (A) and Company Red (B)
   - Also have a leisure option to earn passive income
 - Data is imported into the game via the game_input CSVs, with each column becoming a list which is iterated throughout the game
 - Data is exported out of the game in a JSON string format in which the player must copy and paste into a Qualtrics text box
